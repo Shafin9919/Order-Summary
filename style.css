@@ -42,7 +42,7 @@ body {
 }
 .con{
   background-color:  hsl(225, 100%, 98%);
-  width:80%;
+  width:90%;
   margin:0 auto;
   border-radius: 10px;
   
@@ -69,7 +69,7 @@ body {
   
 }
 .box img{
-  margin:8px 20px 0 16px;
+  margin:35% 20px 0 16px;
   
 }
 .box a{
